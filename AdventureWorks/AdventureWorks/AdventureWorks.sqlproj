@@ -220,5 +220,6 @@
     <Build Include="ExtendedProperties.sql" />
     <Build Include="dbo\Stored Procedures\Get1.sql" />
     <Build Include="dbo\Stored Procedures\Get2.sql" />
+    <Build Include="dbo\Stored Procedures\Get3.sql" />
   </ItemGroup>
 </Project>
