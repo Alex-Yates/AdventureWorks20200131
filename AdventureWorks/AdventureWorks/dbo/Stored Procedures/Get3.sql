@@ -2,6 +2,6 @@
 
 AS
 begin
-	SELECT 3
+	SELECT 4
 	end
 
